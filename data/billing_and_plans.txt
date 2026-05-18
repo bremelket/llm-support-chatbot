@@ -1,0 +1,10 @@
+Nexus offers three plans: Free, Pro, and Enterprise.
+The Free plan supports up to 3 users and 5 active projects with 1GB of storage.
+The Pro plan costs $12 per user per month and includes unlimited projects, 50GB storage, and priority support.
+The Enterprise plan offers custom pricing, SSO, advanced security, and a dedicated account manager.
+To upgrade your plan, go to Settings, then Billing, then click Upgrade.
+You can pay monthly or annually. Annual billing gives you a 20% discount.
+Nexus accepts all major credit cards and invoicing for Enterprise customers.
+To cancel your subscription, go to Settings, then Billing, then click Cancel Plan.
+After cancellation your workspace remains active until the end of the billing period.
+Refunds are available within 7 days of a charge if you have not used more than 10% of your plan's resources.

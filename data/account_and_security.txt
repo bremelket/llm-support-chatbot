@@ -1,0 +1,10 @@
+To reset your password, click Forgot Password on the login page and enter your email address.
+You will receive a reset link valid for 24 hours.
+To change your email address, go to Profile Settings and update the email field. A verification email will be sent to the new address.
+Two-factor authentication is available under Security Settings. Nexus supports authenticator apps and SMS.
+If you lose access to your two-factor device, contact support@nexus.io with your account email and proof of identity.
+Admins can remove a team member by going to Settings, then Team, selecting the member, and clicking Remove.
+Removed members immediately lose access to the workspace and all its content.
+All data in Nexus is encrypted at rest and in transit using AES-256 and TLS 1.3.
+Nexus is SOC 2 Type II certified and GDPR compliant.
+To export your workspace data, go to Settings, then Data, and click Request Export. You will receive a download link within 24 hours.

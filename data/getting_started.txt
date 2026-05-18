@@ -1,0 +1,9 @@
+Nexus is a cloud-based project management platform designed for teams of all sizes. 
+To get started, create an account at nexus.io and choose a plan that fits your team. 
+After signing up, you will be prompted to create your first workspace. 
+A workspace is a shared environment where your team collaborates on projects. 
+You can invite team members by going to Settings, then Team, then clicking Invite Members. 
+Enter their email addresses and assign them a role: Admin, Member, or Viewer. 
+Admins can manage billing and settings. Members can create and edit projects. Viewers can only read content.
+New users receive an email invitation and must accept it before joining the workspace.
+Nexus supports Google and Microsoft single sign-on for faster login.

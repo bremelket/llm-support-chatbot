@@ -1,0 +1,9 @@
+Nexus integrates with popular tools to fit into your existing workflow.
+To connect an integration, go to Settings, then Integrations, and select the tool you want to connect.
+Slack integration allows you to receive project notifications and task updates directly in your Slack channels.
+GitHub integration links pull requests and commits to Nexus tasks automatically.
+Google Drive integration lets you attach Drive files directly to tasks and projects.
+Zapier integration connects Nexus to over 5000 apps for custom automation workflows.
+API access is available on Pro and Enterprise plans. You can generate an API key in Settings under Developer.
+Webhooks are supported for real-time event notifications to external systems.
+To disconnect an integration, go to Settings, then Integrations, click the integration, and select Remove.
