@@ -1,3 +1,5 @@
+**Live demo:** [llm-support-chatbot-nexus.streamlit.app](https://llm-support-chatbot-nexus.streamlit.app/)
+
 # LLM Support Chatbot
 
 A RAG-based AI support chatbot built with LangGraph, FAISS, and Claude API.
