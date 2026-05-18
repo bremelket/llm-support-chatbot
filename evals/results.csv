@@ -1,0 +1,60 @@
+question,status,score,matched_keywords,answer
+How do I reset my password?,✅ PASS,1.0,"forgot password, reset link, 24 hours","to reset your password, follow these steps:
+
+1. click **forgot password** on the login page
+2. enter your email address
+3. you will receive a password reset link that is valid for 24 hours
+
+use that link to create your new password. if you don't receive the email, check your spam folder or contact s"
+What is included in the Pro plan?,✅ PASS,1.0,"12, unlimited, 50GB, priority support","the pro plan includes:
+
+- **unlimited projects**
+- **50gb of storage**
+- **priority support**
+- **cost:** $12 per user per month
+
+additionally, the pro plan gives you access to api features, which are available on pro and enterprise plans."
+How do I connect Slack to Nexus?,✅ PASS,1.0,"settings, integrations, slack","to connect slack to nexus, follow these steps:
+
+1. go to **settings**
+2. select **integrations**
+3. select **slack** from the available tools
+
+once connected, you'll be able to receive project notifications and task updates directly in your slack channels.
+
+if you need to disconnect slack later, you"
+How do I invite team members?,✅ PASS,1.0,"invite, email, settings, team","to invite team members to your nexus workspace, follow these steps:
+
+1. go to **settings**
+2. click on **team**
+3. click **invite members**
+4. enter their email addresses
+5. assign them a role: **admin**, **member**, or **viewer**
+   - **admins** can manage billing and settings
+   - **members** can "
+What happens if I cancel my subscription?,✅ PASS,1.0,"end, billing period, active","if you cancel your subscription, your workspace remains active until the end of your current billing period. 
+
+to cancel, go to **settings** → **billing** → **cancel plan**.
+
+additionally, if you cancel within 7 days of a charge and haven't used more than 10% of your plan's resources, you're eligibl"
+How do I export my workspace data?,✅ PASS,0.75,"data, export, 24 hours","according to the information provided, when you export your workspace data, **you will receive a download link within 24 hours**.
+
+however, the context doesn't include the specific steps for how to initiate an export. for detailed instructions on where to find the export option and how to start the "
+What is two-factor authentication?,✅ PASS,1.0,"security, authenticator, SMS","i don't have information in the provided context that explains what two-factor authentication is in general terms.
+
+however, i can tell you that **nexus supports two-factor authentication** as a security feature. according to our documentation, you can enable it under security settings, and nexus su"
+How do I remove a team member?,✅ PASS,1.0,"settings, team, remove","to remove a team member from your nexus workspace:
+
+1. go to **settings**
+2. select **team**
+3. select the team member you want to remove
+4. click **remove**
+
+once removed, that member will immediately lose access to the workspace and all its content."
+What is the Free plan limit?,✅ PASS,0.6666666666666666,"3 users, 1GB","the free plan supports:
+- up to **3 users**
+- **5 active projects**
+- **1gb of storage**"
+How do I get enterprise pricing?,✅ PASS,1.0,"custom, account manager, contact","to get enterprise pricing, you'll need to contact nexus directly for a custom quote. 
+
+according to the information available, the enterprise plan offers custom pricing (rather than a fixed per-user rate like the pro plan), along with additional features like sso, advanced security, and a dedicated "

@@ -1,0 +1,11 @@
+question,expected_keywords
+How do I reset my password?,forgot password|reset link|24 hours
+What is included in the Pro plan?,12|unlimited|50GB|priority support
+How do I connect Slack to Nexus?,settings|integrations|slack
+How do I invite team members?,invite|email|settings|team
+What happens if I cancel my subscription?,end|billing period|active
+How do I export my workspace data?,settings|data|export|24 hours
+What is two-factor authentication?,security|authenticator|SMS
+How do I remove a team member?,settings|team|remove
+What is the Free plan limit?,3 users|5 projects|1GB
+How do I get enterprise pricing?,custom|account manager|contact
